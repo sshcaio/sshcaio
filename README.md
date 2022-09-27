@@ -25,9 +25,9 @@ Welcome to my profile, I'm Caio de Sousa, but my friends call me Sony (and I hop
 <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> </p> 
 
 ## Anteriormente, na minha vida <br>(Previously, in my life)
-Nasci em Duque de Caxias, no Rio de Janeiro, onde cresci minha vida inteira. Cresci num bairro periférico, e meu pai sempre lutou muito para me dar uma boa educação. Meu primeiro contato com computadores foi o computador de um primo meu, onde eu fiz nada além de brincar no Paint. Sempre gostei de tecnologia, do novo, do criativo. 
+Nasci em Duque de Caxias, no Rio de Janeiro, onde cresci minha vida inteira. Cresci num bairro periférico, e meu pai sempre lutou muito para me dar uma boa educação. Meu primeiro contato com computadores foi o computador de um primo meu, no qual eu fiz nada além de brincar no Paint. Sempre gostei de tecnologia, do novo, do criativo. 
 
-Aos meus 13 anos entrei num curso de design gráfico, onde aprendi a mexer com Photoshop, Illustrator e outras ferramentas. La, tive um contato superficial com HTML através do Dreamweaver, mas não segui no caminho da web. Anos depois, em 2014, com 16 anos, iniciei um curso técnico em Publicidade. Aprendi muito, desenvolvi minha comunicação e aprendi coisas que mesmo fora da área da publicidade eu uso até hoje, e me beneficiam muito em qualquer atividade. Em 2021 decidi estudar programação, e me inscrevi na Trybe, sendo aprovado pra turma 20, com início em janeiro de 2022.
+Aos meus 13 anos entrei num curso de design gráfico, onde aprendi a mexer com Photoshop, Illustrator e outras ferramentas. Lá, tive um contato superficial com HTML através do Dreamweaver, mas não segui no caminho da web. Anos depois, em 2014, com 16 anos, iniciei um curso técnico em Publicidade. Aprendi muito, desenvolvi minha comunicação e aprendi coisas que mesmo fora da área da publicidade eu uso até hoje, e me beneficiam muito em qualquer atividade. Em 2021 decidi estudar programação, e me inscrevi na Trybe, sendo aprovado pra turma 20, com início em janeiro de 2022.
 
 <details>
  <summary>English translation</summary>
@@ -41,7 +41,7 @@ Assim que fiz, em outubro de 2021, o processo seletivo da Trybe - onde fiz um cu
 
 Tudo se confirmou quando fui aprovado e comecei, de fato, o curso. Desafios novos, muita inspiração, vontade, estresse, claro, pois nem tudo são flores, mas a cada dia eu me apaixonava mais por programação. Aprendi javascript, me aprofundei em react, passamos por Node e Typescript em backend, e estou na reta final desse aprendizado. Ou melhor, desse curso, pois *o aprendizado não para*.
 
-Eu ainda tenho muito a aprender, na tecnologia não existe parar de aprender, e eu espero trabalhar muito e aprender ainda mais ao longo da minha jornada. Até logo!
+Eu ainda tenho muito a estudar, na tecnologia não existe "saber tudo", e eu espero trabalhar muito e aprender ainda mais ao longo da minha jornada. Até logo!
 
 <details>
  <summary>English translation</summary>
