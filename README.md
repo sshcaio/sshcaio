@@ -53,6 +53,8 @@ Vocẽ também pode me mandar um email (You can also send me an email)
 
 fa.caio.contato@gmail.com
 
+![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sshcaio&theme=gotham&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshcaio&theme=gotham&layout=compact)
+
 ## Anteriormente, na minha vida <br>(Previously, in my life)
 Nasci em Duque de Caxias, no Rio de Janeiro, onde cresci minha vida inteira. Cresci num bairro periférico, e meu pai sempre lutou muito para me dar uma boa educação. Meu primeiro contato com computadores foi o computador de um primo meu, no qual eu fiz nada além de brincar no Paint. Sempre gostei de tecnologia, do novo, do criativo. 
 
