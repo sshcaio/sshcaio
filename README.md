@@ -37,7 +37,8 @@ Welcome to my profile, I'm Caio de Sousa, but my friends call me Sony (and I hop
 </p> 
 
 ## Meus contatos <br>(Contact me)
-<a href="https://wa.me/+5521985739619"><img alt="WhatsApp Messenger" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://linkedin.com/in/sshcaio"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/sshcaio"><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a> <a href="mailto:fa.caio.contato@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/+5521985739619"><img alt="WhatsApp Messenger" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://linkedin.com/in/sshcaio"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/sshcaio"><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+You can also send me an email: fa.caio.contato@gmail.com
 
 ## Anteriormente, na minha vida <br>(Previously, in my life)
 Nasci em Duque de Caxias, no Rio de Janeiro, onde cresci minha vida inteira. Cresci num bairro periférico, e meu pai sempre lutou muito para me dar uma boa educação. Meu primeiro contato com computadores foi o computador de um primo meu, no qual eu fiz nada além de brincar no Paint. Sempre gostei de tecnologia, do novo, do criativo. 
