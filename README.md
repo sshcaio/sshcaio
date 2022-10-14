@@ -1,7 +1,7 @@
 # 🇧🇷 Oi, pessoal! <br> :earth_americas: Hi, everyone!
 **[English translation below every section]**
 
- Sejam bem-vindos ao meu perfil, eu sou **Caio de Sousa**, mas meus amigos me chamam de **Sony** (e espero que possamos ser amigos). Sou um **desenvolvedor fullstack** nascido e criado em Duque de Caxias, no Rio de Janeiro! Atualmente terminando meus estudos de **Desenvolvimento Web** na <a href="https://betrybe.com"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/5302/26258239-4ac6-4d28-b94c-ba6d3f9eabc2.png" width="13"/> <img alt="Trybe" src="https://img.shields.io/badge/-TRYBE-036b52" /></a>, buscando meu espaço na área da tecnologia. Se passar o olho em algum projeto, deixa aquele *code review* pro amigo, aquele *feedback*, que **o aprendizado não para**, valeu!!
+ Sejam bem-vindos ao meu perfil, eu sou **Caio de Sousa**, mas meus amigos me chamam de **Sony** (e espero que possamos ser amigos). Sou um **desenvolvedor fullstack** nascido e criado em Duque de Caxias, no Rio de Janeiro! Atualmente, terminando meus estudos de **Desenvolvimento Web** na <a href="https://betrybe.com"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/5302/26258239-4ac6-4d28-b94c-ba6d3f9eabc2.png" width="13"/> <img alt="Trybe" src="https://img.shields.io/badge/-TRYBE-036b52" /></a> e buscando meu espaço na área da tecnologia. Se passar o olho em algum projeto, deixa aquele *code review* pro amigo, aquele *feedback*, que **o aprendizado não para**, valeu!!
 
 <details>
  <summary>English translation</summary>
