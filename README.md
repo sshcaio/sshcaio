@@ -53,7 +53,12 @@ Vocẽ também pode me mandar um email (You can also send me an email)
 
 fa.caio.contato@gmail.com
 
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sshcaio&theme=gotham&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshcaio&theme=gotham&layout=compact)
+<div align="center">
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sshcaio&theme=radical"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=sshcaio&show_icons=true&theme=synthwave&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshcaio&layout=compact&langs_count=7&theme=synthwave&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=sshcaio&theme=synthwave&hide_border=true"/>
+
+ ##
+</div>
 
 ## Anteriormente, na minha vida <br>(Previously, in my life)
 Nasci em Duque de Caxias, no Rio de Janeiro, onde cresci minha vida inteira. Cresci num bairro periférico, e meu pai sempre lutou muito para me dar uma boa educação. Meu primeiro contato com computadores foi o computador de um primo meu, no qual eu fiz nada além de brincar no Paint. Sempre gostei de tecnologia, do novo, do criativo. 
