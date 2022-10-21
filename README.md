@@ -1,5 +1,5 @@
 # 🇧🇷 Oi, pessoal! <br> :earth_americas: Hi, everyone!
-**[English translation below every section]**
+**[English translation bellow]**
 
  Sejam bem-vindos ao meu perfil, eu sou **Caio de Sousa**, mas meus amigos me chamam de **Sony** (e espero que possamos ser amigos). Sou um **desenvolvedor fullstack** nascido e criado em Duque de Caxias, no Rio de Janeiro! Atualmente, terminando meus estudos de **Desenvolvimento Web** na <a href="https://betrybe.com"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/5302/26258239-4ac6-4d28-b94c-ba6d3f9eabc2.png" width="13"/> <img alt="Trybe" src="https://img.shields.io/badge/-TRYBE-036b52" /></a> e buscando meu espaço na área da tecnologia. Se passar o olho em algum projeto, deixa aquele *code review* pro amigo, aquele *feedback*, que **o aprendizado não para**, valeu!!
 
@@ -57,37 +57,7 @@ fa.caio.contato@gmail.com
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sshcaio&theme=radical"/> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sshcaio&show_icons=true&theme=synthwave&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshcaio&layout=compact&langs_count=7&theme=synthwave&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=sshcaio&theme=synthwave&hide_border=true"/>
 
- ##
-</div>
-
-## Anteriormente, na minha vida <br>(Previously, in my life)
-Nasci em Duque de Caxias, no Rio de Janeiro, onde cresci minha vida inteira. Cresci num bairro periférico, e meu pai sempre lutou muito para me dar uma boa educação. Meu primeiro contato com computadores foi o computador de um primo meu, no qual eu fiz nada além de brincar no Paint. Sempre gostei de tecnologia, do novo, do criativo. 
-
-Aos meus 13 anos entrei num curso de design gráfico, onde aprendi a mexer com Photoshop, Illustrator e outras ferramentas. Lá, tive um contato superficial com HTML através do Dreamweaver, mas não segui no caminho da web. Anos depois, em 2014, com 16 anos, iniciei um curso técnico em Publicidade. Aprendi muito, desenvolvi minha comunicação e aprendi coisas que mesmo fora da área da publicidade eu uso até hoje, e me beneficiam muito em qualquer atividade. Em 2021 decidi estudar programação, e me inscrevi na Trybe, sendo aprovado pra turma 20, com início em janeiro de 2022.
-
-<details>
- <summary>English translation</summary>
-I was born in Duque de Caxias, Rio de Janeiro, where I grew up my whole life. Raised on a poor neighborhood, my father always fought and worked to give me a proper education. My first contact with a computer was with a machine from a cousin of mine, where I did nothing more than play with Paint. But I always liked tech, new things, creative thing.
-
-On my thirteen's I went through a graphic design course, where I've learned Photoshop, Illustrator and some other tools. There I had a superficial contact with HTML through Dreamweaver, but I didn't followed the Web path. Years later, in 2014, with 16yo, I've started a technical course on Advertising. I've learned a lot, developed my communication, learned things that helped me even outside the Advertising area and I use them till today. In 2021 I decided to try and learn programming, and signed up for Trybe course, being approved to the 20th class, beginning in January 2022.
-</details>
-
-## A estrada até aqui <br>(The road so far)
-Assim que fiz, em outubro de 2021, o processo seletivo da Trybe - onde fiz um curso introdutório e passei por um desafio técnico - senti que estava no lugar certo.  Além de tecnologia e criatividade, eu sempre adorei lógica. Desafios matemáticos, testes de lógica, e percebi que a lógica de programação fazia eu me sentir em casa.
-
-Tudo se confirmou quando fui aprovado e comecei, de fato, o curso. Desafios novos, muita inspiração, vontade, estresse, claro, pois nem tudo são flores, mas a cada dia eu me apaixonava mais por programação. Aprendi javascript, me aprofundei em react, passamos por Node e Typescript em backend, e estou na reta final desse aprendizado. Ou melhor, desse curso, pois *o aprendizado não para*.
-
-Eu ainda tenho muito a estudar, na tecnologia não existe "saber tudo", e eu espero trabalhar muito e aprender ainda mais ao longo da minha jornada. Até logo!
-
-<details>
- <summary>English translation</summary>
-As soon as I did the selective process for the course - where I had to go through a intro course and a technical challenge - I felt I was right where I belonged. Besides technology and creativity, I always loved logic. Math challenges, logic tests, and I realized that programming made me feel like home.
-
-I had my confirmation when I was approved and finally started the course. New challenges everyday, lots of inspiration, will, stress, cause not everything is beautiful, but each day I fell more in love with code. Learn Javascript, got into React, we've passed through Node and TypeScript in backend, and I'm in the finals, finishing the course, and I'll never stop learning.
-
-Still have a lot to study, in tech there is no "know everything", and I look foward to work and learn more and more along my journey. See you soon!
-</details>
-
 ##
+</div>
 
 #### Obrigado e volte sempre!<br>(Thank you, and come back anytime!)
